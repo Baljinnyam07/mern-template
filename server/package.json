@@ -33,7 +33,7 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
     "@babel/preset-env": "^7.20.2",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
-    "nodemon": "^2.0.21",
+    "nodemon": "^2.0.22",
     "rimraf": "^4.4.0"
   }
 }
