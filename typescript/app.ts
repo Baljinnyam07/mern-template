@@ -1,5 +1,5 @@
 import express, {Express, Request, Response} from "express";
-import usersRouter from "./routes/usersRouter";
+import usersRouter from "../typescript/routes/usersRouter";
 
 const app:Express = express();
 
